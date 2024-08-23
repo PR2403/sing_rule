@@ -1,15 +1,16 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain_suffix": [
-        "try-chatgpt.fun",
-        "try-chatapi.com"
-      ],
-      "domain": [
-        "europe.vrdesktop.net",
-        "securecdn.oculus.com"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "try-chatgpt.fun",
+                "try-chatapi.com"
+            ],
+            "domain": [
+                "try-chatgpt.fun",
+                "europe.vrdesktop.net",
+                "securecdn.oculus.com"
+            ]
+        }
+    ]
 }
