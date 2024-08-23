@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "try-chatgpt.fun",
+        "try-chatapi.com"
+      ],
+      "domain": [
+        "europe.vrdesktop.net",
+        "securecdn.oculus.com"
+      ]
+    }
+  ]
+}
